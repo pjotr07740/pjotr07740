@@ -14,7 +14,7 @@
 
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjotr07740&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pjotr07740&theme=dark">
 
 <br>
 <br>
